@@ -1,0 +1,21 @@
+h1, h3{
+    font-weight: 500;
+}
+
+input[type=number]{
+    font-size: 1.1em;
+    padding: 0.15rem 0.6rem; 
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+.guess{
+    background-color: blueviolet;
+}
+
+.play{
+    background-color: green;
+}

@@ -1,0 +1,7 @@
+/* CSS for option button */
+.options button{
+    border: none;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.95em;
+    margin: 0.2rem 0.3rem;
+}

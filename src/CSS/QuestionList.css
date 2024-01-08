@@ -1,0 +1,27 @@
+.container{
+    background-color: rgb(247, 194, 211, 0.4);
+    width: 40%;
+    margin: 0 auto;
+}
+
+
+/*---------------- button CSS  ----------------*/
+
+.btn--container{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.prev {  
+    background-color: blueviolet;
+}
+
+.next{
+    background-color: green;
+}
+
+.submit{
+    background-color: indianred;
+    width: 38%;
+}
